@@ -1,0 +1,7 @@
+---
+title: Clock
+tags:
+- vhdl
+---
+
+...
